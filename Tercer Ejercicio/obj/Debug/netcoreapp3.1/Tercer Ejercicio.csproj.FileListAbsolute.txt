@@ -1,0 +1,12 @@
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.exe
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.deps.json
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.runtimeconfig.json
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.runtimeconfig.dev.json
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.dll
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\bin\Debug\netcoreapp3.1\Tercer Ejercicio.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.AssemblyInfo.cs
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.dll
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\TAREA 2 PROGRAMACION\Tercer Ejercicio\obj\Debug\netcoreapp3.1\Tercer Ejercicio.genruntimeconfig.cache
