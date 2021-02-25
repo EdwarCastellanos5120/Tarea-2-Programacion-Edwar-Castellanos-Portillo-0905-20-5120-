@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Boton_de_Salida_a_Ejemplo_de_la_Clase</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.exe
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.deps.json
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.runtimeconfig.json
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.runtimeconfig.dev.json
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.csprojAssemblyReference.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.AssemblyInfoInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.AssemblyInfo.cs
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.csproj.CoreCompileInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\EJERCICIOS EXTRAS\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.genruntimeconfig.cache
